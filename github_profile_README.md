@@ -1,8 +1,8 @@
-# Hi, I'm Dr. Elizabeth (Liz) Taylor 👋
+# Hi, I'm Dr. Elizabeth (Liz) Taylor
 
 **Data Scientist · AI Governance Researcher · DBA**
 
-M.S. Data Science, Utica University (August 2026) · Doctor of Business Administration · Based in Ontario, Canada
+M.S. Data Science, Utica University (August 2026) · Doctor of Business Administration 
 
 ---
 
@@ -74,8 +74,8 @@ Most audits of automated hiring tools ask one question: does the system discrimi
 
 ## 🎓 Education & Credentials
 
-- **M.S. Data Science** — Utica University *(August 2026)*
-- **Doctor of Business Administration (DBA)** — *(conferred)*
+- **M.S. Data Science** — Utica University 
+- **Doctor of Business Administration (DBA)
 - **AI & Machine Learning Microcredential** — Utica University, School of Business & Justice Studies *(May 2026)* · [Verify](https://www.utica.edu/badge/pdf/5135D6BEFA306F98E065025056B34C62)
 
 ---
