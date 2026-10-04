@@ -75,7 +75,7 @@ Most audits of automated hiring tools ask one question: does the system discrimi
 ## 🎓 Education & Credentials
 
 - **M.S. Data Science** — Utica University 
-- **Doctor of Business Administration (DBA)
+- Doctor of Business Administration (DBA)
 - **AI & Machine Learning Microcredential** — Utica University, School of Business & Justice Studies *(May 2026)* · [Verify](https://www.utica.edu/badge/pdf/5135D6BEFA306F98E065025056B34C62)
 
 ---
