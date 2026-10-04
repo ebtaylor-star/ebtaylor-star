@@ -82,7 +82,7 @@ Most audits of automated hiring tools ask one question: does the system discrimi
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lizbtaylor-blue?style=flat&logo=linkedin)](https://linkedin.com/in/lizbtaylor)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lizbtaylor-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/lizbtaylor])  
 [![GitHub](https://img.shields.io/badge/GitHub-ebtaylor--star-black?style=flat&logo=github)](https://github.com/ebtaylor-star)
 
 ---
