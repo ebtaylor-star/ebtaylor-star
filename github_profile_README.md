@@ -1,4 +1,4 @@
-# Hi, I'm Dr. Elizabeth (Liz) Taylor
+# Hi, I'm Elizabeth (Liz) Taylor
 
 **Data Scientist · AI Governance Researcher · DBA**
 
@@ -75,14 +75,14 @@ Most audits of automated hiring tools ask one question: does the system discrimi
 ## 🎓 Education & Credentials
 
 - **M.S. Data Science** — Utica University 
-- Doctor of Business Administration (DBA)
+- **Doctor of Business Administration (DBA)**
 - **AI & Machine Learning Microcredential** — Utica University, School of Business & Justice Studies *(May 2026)* · [Verify](https://www.utica.edu/badge/pdf/5135D6BEFA306F98E065025056B34C62)
 
 ---
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lizbtaylor-blue?style=flat&logo=linkedin)](https://linkedin.com/in/lizbtaylor/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lizbtaylor-blue?style=flat&logo=linkedin)](https://linkedin.com/in/lizbtaylor)  
 [![GitHub](https://img.shields.io/badge/GitHub-ebtaylor--star-black?style=flat&logo=github)](https://github.com/ebtaylor-star)
 
 ---
